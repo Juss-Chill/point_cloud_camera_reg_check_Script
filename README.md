@@ -12,4 +12,4 @@
 
 ### The output images upon overaying lidar onto the camera image looks like this
 
-![overlayed image](/assets/Overlay_screenshot_09.07.2024.png)
+![overlayed image](https://github.com/Juss-Chill/point_cloud_camera_reg_check_Script/tree/master/assets/Overlay_screenshot_09.07.2024.png)
