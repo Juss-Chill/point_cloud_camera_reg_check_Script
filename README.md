@@ -9,3 +9,7 @@
 > b. Matpolotlib
 > c. Open3d
 > d. pytorch(2.3.0)
+
+### The output images upon overaying lidar onto the camera image looks like this
+
+![overlayed image](/assets/Overlay_screenshot_09.07.2024.png)
